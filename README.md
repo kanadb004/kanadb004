@@ -2,7 +2,6 @@
 
 <img align="center" src="https://raw.githubusercontent.com/kanadb004/kanadb004/main/assets/kanad-cartoon-banner-2.png" alt="Kanad Avatar Banner">
 
----
 
 <h1 align="center">
   <span style="color: #00FF00;">CS Undergrad @ VIT Chennai</span><br/>
@@ -11,7 +10,7 @@
 </h1>
 
 
----
+
 
 ## Tech Stack
 

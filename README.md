@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kanad..
+# Hi, I'm Kanad 👋🏼
 
 <img align="center" src="https://raw.githubusercontent.com/kanadb004/kanadb004/main/assets/kanad-cartoon-banner-2.png" alt="Kanad Avatar Banner" style="border-radius: 10px;">
 

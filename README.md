@@ -49,8 +49,8 @@
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/kanadb004/InfraSafe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanadb004&repo=InfraSafe&theme=dark" alt="InfraSafe" style="margin: 10px;">
+  <a href="https://github.com/kanadb004/autonomous-building-optimisation-energyplus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanadb004&repo=autonomous-building-optimisation-energyplus&theme=dark" alt="autonomous-building-optimisation-energyplus" style="margin: 10px;">
   </a>
   <a href="https://github.com/kanadb004/SafeStreets-ViolenceDetection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanadb004&repo=SafeStreets-ViolenceDetection&theme=dark" alt="SafeStreets" style="margin: 10px;">
